@@ -1,0 +1,311 @@
+/* Group 1171275089 */
+
+position: absolute;
+width: 1234px;
+height: 506px;
+left: 142px;
+top: 1224px;
+
+
+
+/* Rectangle 23820 */
+
+position: absolute;
+width: 644px;
+height: 506px;
+left: 732px;
+top: 1224px;
+
+background: #E21E26;
+
+
+/* Don't miss out! enter your email and your name, then hit subscribe to unlock a world of special offers and details. */
+
+position: absolute;
+width: 478px;
+height: 42px;
+left: 143px;
+top: 1464px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* Get in on */
+
+position: absolute;
+width: 63px;
+height: 21px;
+left: 1053px;
+top: 1558.42px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 1171274870 */
+
+position: absolute;
+width: 223px;
+height: 45px;
+left: 142px;
+top: 1403px;
+
+
+
+/* Rectangle 52 */
+
+position: absolute;
+width: 223px;
+height: 45px;
+left: 142px;
+top: 1403px;
+
+background: #F8F8F8;
+border-radius: 5px;
+
+
+/* Name */
+
+position: absolute;
+width: 37px;
+height: 18px;
+left: 162.07px;
+top: 1416.57px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* Group 1171274872 */
+
+position: absolute;
+width: 263px;
+height: 45px;
+left: 1053px;   
+top: 1403px;
+
+
+
+/* Rectangle 23821 */
+
+position: absolute;
+width: 263px;
+height: 45px;
+left: 1053px;
+top: 1403px;
+
+background: #F8F8F8;
+border-radius: 5px;
+
+
+/* Enter phone number */
+
+position: absolute;
+width: 123px;
+height: 17.72px;
+left: 1075px;
+top: 1416.57px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* Group 1171274871 */
+
+position: absolute;
+width: 223.11px;
+height: 45.27px;
+left: 382.89px;
+top: 1402.79px;
+
+
+
+/* Rectangle 23818 */
+
+position: absolute;
+width: 223.11px;
+height: 45.27px;
+left: 382.89px;
+top: 1402.79px;
+
+background: #F8F8F8;
+border-radius: 5px;
+
+
+/* Email */
+
+position: absolute;
+width: 33px;
+height: 18px;
+left: 399.2px;
+top: 1416.57px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+opacity: 0.5;
+
+
+/* Group 1171274812 */
+
+position: absolute;
+width: 464px;
+height: 57.08px;
+left: 142px;
+top: 1546px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 464px;
+height: 57.08px;
+left: 142px;
+top: 1546px;
+
+background: #E21E26;
+border-radius: 5px;
+
+
+/* Subscribe */
+
+position: absolute;
+width: 81px;
+height: 24px;
+left: 332.36px;
+top: 1563.72px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Subscribe here for exclusive offers and updates! */
+
+position: absolute;
+width: 550px;
+height: 100px;
+left: 142px;
+top: 1262px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 51px;
+
+color: #000000;
+
+
+
+/* Enter your number and receive a direct link to download the app */
+
+position: absolute;
+width: 233px;
+height: 43px;
+left: 1058px;
+top: 1347.42px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+/* or 154% */
+
+color: #FFFFFF;
+
+
+
+/* Frame 36364 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16px 32px;
+gap: 10px;
+
+position: absolute;
+width: 144px;
+height: 42px;
+left: 1053px;
+top: 1471.42px;
+
+background: #000000;
+border-radius: 8px;
+
+
+/* Get the link */
+
+width: 80px;
+height: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 0px;
+/* or 0% */
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
