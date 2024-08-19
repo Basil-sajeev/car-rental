@@ -902,8 +902,23 @@ text-align: left;
     display: none;
 }
 .head{
+    position: absolute;
     flex-direction: column;
-    z-index: 1;
+    transform: translateX(-50%);
+    left: 60%;
+    top: 60px;
+    z-index: 9999;
+    background-color: #fff;
+    min-width: 360px;
+    padding: 20px;
+}
+
+.head a{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    text-align: left;
 }
 .hamburger{
     align-content: flex-start;
@@ -929,7 +944,9 @@ letter-spacing: -0.035em;
 text-align: left;
 
 }
-
+#head2{
+    display: none;
+}
 
 }
 
