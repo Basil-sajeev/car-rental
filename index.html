@@ -25,7 +25,7 @@
                 <div class="social11"><a href=""><img src="images/linkw.svg"></a></div>
             </div>
         
-        <div class="head">
+        <div class="head" id="head1">
             
         
                <div class="nav"> <a class="top" href="">About</a></div>
@@ -36,9 +36,9 @@
                <div class="nav"> <a class="top" href="">Contact Us</a></div>
               <div class="nav"> <img src="images/Group 1171275109.svg"></div>
               </div>
-              <div class="hamburger" onclick="toggleMenu()">&#9776;
+              <button class="hamburger" onclick="toggleMenu()">&#9776;
 
-              </div>
+              </button>
               <div id="note">
                 <p>Sunday Pick Up/Drop-Off only at Dubai Silicon Oasis & Habtoor Grand Sales Counters | All Rates inclusive of VAT. T&C’s apply | Follow us on Social Media for New Offers</p>
             </div>
@@ -82,9 +82,34 @@
             </div>
         </div>
         <div class="booking">
-            <button id="bookacar" onclick="toggleMenu()">Book A Car</button>
+            <button id="bookacar" onclick="myFunction()">Book A Car</button>
             <button id="quickbook">Quick Book</button>
         </div>
+
+        <div id="book">
+           <button class="book-button" onclick="myFunction1()"> Same as Pick-up</button>
+            <button class="book-button" onclick="myFunction2()">Different Drop-Off</button>
+            <a href="">Vehicle type</a><img src="/images/dropred.svg">
+            
+
+        </div>
+
+        <div id="book1">
+            <div class="drop"><div class="drop1"><img id="ic" src="images/map.svg"><a href="">Pickup Location</a><img src="/images/dropred.svg"></div></div>    
+            <div class="drop"><div class="drop1"><img src="images/date.svg" ><a href="">Pick-Up Date & Time</a><img src="/images/dropred.svg"></div></div>    
+            <div class="drop"><div class="drop1"><img src="images/date.svg" ><a href="">Drop off  Date & time</a></div></div>    
+    </div>
+
+    <div id="book2">
+                
+        <div class="drop"><div class="drop1"><img id="ic" src="images/map.svg"><a href="">Pickup Location</a><img src="/images/dropred.svg"></div></div>    
+        <div class="drop"><div class="drop1"><img src="images/map.svg" ><a href="">Drop off Location</a><img src="/images/dropred.svg"></div></div>    
+
+        <div class="drop"><div class="drop1"><img src="images/date.svg" ><a href="">Pick-Up Date & Time</a></div></div>    
+        <div class="drop"><div class="drop1"><img src="images/date.svg" ><a href="">Drop off  Date & time</a></div></div>    
+
+
+</div>
 
         <div id="mit">
             <img src="images/Group 1171275029.svg">
@@ -324,5 +349,7 @@
     </div>
         <p id="foot">© 2018 Car rental LLC - All Rights Reserved. </p>
         </footer>
+
+        <script src="script.js"></script>
 </body>
 </html>
