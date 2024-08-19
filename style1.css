@@ -853,6 +853,14 @@ footer{
 
 }
 
+.scrolling{
+    overflow:auto;
+    white-space:wrap;
+}
+.mitp{
+    
+}
+
 
 }
 
