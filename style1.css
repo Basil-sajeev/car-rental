@@ -624,6 +624,9 @@ color: #fff;
 #book1{
     display: none;
 }
+#book2{
+    display: none;
+}
 
 
 @media(max-width:1024px){
